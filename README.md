@@ -1,3 +1,4 @@
 ﻿# DSA-learning
 
-[strulty](https://roadmap.sh/datastructures-and-algorithms)
+[structy](https://roadmap.sh/datastructures-and-algorithms)
+
