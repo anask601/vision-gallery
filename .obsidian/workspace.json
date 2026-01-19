@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7dcae38c19828efe",
+        "id": "aac2137249162b0f",
         "type": "tabs",
         "children": [
           {
-            "id": "87e89937d6ccee45",
+            "id": "df762a3929d9b25c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -195,11 +191,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "87e89937d6ccee45",
+  "active": "4dc1e5a8cd676b53",
   "lastOpenFiles": [
-    "2026-01-19.md",
+    "dsa-learning-js/02 resources",
+    "dsa-learning-js/01 Notes",
+    "dsa-learning-js/01 Notes.md",
     "README.md",
     "Welcome.md",
+    "2026-01-19.md",
     "Untitled.base",
     "create a link.md",
     "dsa-learning-js"
