@@ -11,10 +11,14 @@
             "id": "9dba2fa2a112c528",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -113,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Quran tajweed/Class 2.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,6 +185,8 @@
   },
   "active": "9dba2fa2a112c528",
   "lastOpenFiles": [
+    "Untitled.md",
+    "C learning",
     "Quran tajweed/Class 3.md",
     "Quran tajweed/Class 2.md",
     "Quran tajweed/Class 1.md",
@@ -193,8 +199,6 @@
     "webmd",
     "system design",
     "AI Agents",
-    "Untitled.md",
-    "Untitled",
     "Untitled.canvas"
   ]
 }
