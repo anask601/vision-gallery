@@ -90,8 +90,7 @@
               "title": "All lectures"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,6 +241,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -253,7 +253,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "97f5ac1815406c3e",
+  "active": "cf8f4b4be0d7f0bb",
   "lastOpenFiles": [
     "Quran tajweed/All lectures.md",
     "C learning/Beginner.md",
