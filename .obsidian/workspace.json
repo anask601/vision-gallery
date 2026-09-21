@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4cb3d5f2edcf1fc8",
+        "id": "c518e25e044e0530",
         "type": "tabs",
         "children": [
           {
-            "id": "066bf3ac82dd6555",
+            "id": "b2ea26787cf51c62",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,19 +195,25 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "4dc1e5a8cd676b53",
+  "active": "b2ea26787cf51c62",
   "lastOpenFiles": [
+    "system design/Resource.md",
+    "webmd/creds.md",
+    "webmd/Astrix BA steps to run.md",
+    "Welcome.md",
+    "create a link.md",
+    "webmd",
     "AI Agents/Resources.md",
-    "AI Agents",
+    "java",
+    "system design",
     "README.md",
+    "AI Agents",
     "Untitled.canvas",
     "dsa-learning-js/01 Notes.md",
-    "dsa-learning-js/02 resources",
-    "dsa-learning-js/01 Notes",
-    "Welcome.md",
+    "dsa learning js/02 resources",
+    "dsa learning js/01 Notes",
     "2026-01-19.md",
     "Untitled.base",
-    "create a link.md",
-    "dsa-learning-js"
+    "dsa learning js"
   ]
 }
