@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "055a793d2746d314",
+        "id": "c59a91cb3e42fe20",
         "type": "tabs",
         "children": [
           {
-            "id": "9dba2fa2a112c528",
+            "id": "cf8f4b4be0d7f0bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +21,8 @@
               "title": "Beginner"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,8 +164,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "calendar"
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       }
     ],
@@ -183,7 +184,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9dba2fa2a112c528",
+  "active": "2294336603b04cab",
   "lastOpenFiles": [
     "C learning/Beginner.md",
     "C learning",
@@ -193,12 +194,19 @@
     "Quran tajweed",
     "system design/Resource.md",
     "Welcome.md",
-    "README.md",
-    "AI Agents/Resources.md",
     "webmd/Astrix BA steps to run.md",
     "webmd",
+    "system design/Resource.md",
     "system design",
+    "AI Agents/Resources.md",
     "AI Agents",
-    "Untitled.canvas"
+    "Quran tajweed/Class 3.md",
+    "Untitled.md",
+    "Quran tajweed/Class 2.md",
+    "Untitled",
+    "Untitled.canvas",
+    "Quran tajweed/Class 1.md",
+    "Quran tajweed",
+    "README.md"
   ]
 }
