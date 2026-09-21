@@ -82,12 +82,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quran tajweed/Class 2.md",
+                "file": "C learning/Beginner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 2"
+              "title": "Beginner"
             }
           }
         ],
@@ -255,6 +255,7 @@
   },
   "active": "2294336603b04cab",
   "lastOpenFiles": [
+    "Quran tajweed/Class 2.md",
     "C learning/Beginner.md",
     "C learning",
     "Welcome.md",
@@ -266,7 +267,6 @@
     "AI Agents",
     "Quran tajweed/Class 3.md",
     "Untitled.md",
-    "Quran tajweed/Class 2.md",
     "Untitled",
     "Untitled.canvas",
     "Quran tajweed/Class 1.md",
