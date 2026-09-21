@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c518e25e044e0530",
+        "id": "b8db10ef0e63c380",
         "type": "tabs",
         "children": [
           {
-            "id": "b2ea26787cf51c62",
+            "id": "e1accdf5c79c5d28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,15 +195,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b2ea26787cf51c62",
+  "active": "e1accdf5c79c5d28",
   "lastOpenFiles": [
+    "AI Agents/Resources.md",
     "system design/Resource.md",
     "webmd/creds.md",
     "webmd/Astrix BA steps to run.md",
     "Welcome.md",
     "create a link.md",
     "webmd",
-    "AI Agents/Resources.md",
     "java",
     "system design",
     "README.md",
