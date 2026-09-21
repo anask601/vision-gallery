@@ -11,10 +11,14 @@
             "id": "b147fe56ad4b0213",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Quran tajweed/Class 3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Class 3"
             }
           }
         ]
@@ -194,6 +198,10 @@
   },
   "active": "b147fe56ad4b0213",
   "lastOpenFiles": [
+    "Quran tajweed/Class 2.md",
+    "Quran tajweed/Class 3.md",
+    "Quran tajweed/Class 1.md",
+    "Untitled.md",
     "system design/Resource.md",
     "AI Agents/Resources.md",
     "webmd/Astrix BA steps to run.md",
@@ -202,8 +210,6 @@
     "AI Agents",
     "Welcome.md",
     "Quran tajweed/Class 3.md",
-    "Quran tajweed/Class 2.md",
-    "Quran tajweed/Class 1.md",
     "Quran tajweed",
     "webmd/creds.md",
     "create a link.md",
