@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "055a793d2746d314",
+        "id": "c59a91cb3e42fe20",
         "type": "tabs",
         "children": [
           {
-            "id": "9dba2fa2a112c528",
+            "id": "cf8f4b4be0d7f0bb",
             "type": "leaf",
             "state": {
               "type": "terminal:documentation",
@@ -90,7 +90,8 @@
               "title": "Class 1"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,8 +233,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "calendar"
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       }
     ],
@@ -252,17 +253,17 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9dba2fa2a112c528",
+  "active": "2294336603b04cab",
   "lastOpenFiles": [
     "C learning/Beginner.md",
     "Quran tajweed/Class 2.md",
     "C learning",
     "Welcome.md",
-    "README.md",
-    "AI Agents/Resources.md",
     "webmd/Astrix BA steps to run.md",
     "webmd",
+    "system design/Resource.md",
     "system design",
+    "AI Agents/Resources.md",
     "AI Agents",
     "Quran tajweed/Class 3.md",
     "Untitled.md",
