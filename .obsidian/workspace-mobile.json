@@ -83,7 +83,7 @@
               "type": "markdown",
               "state": {
                 "file": "Quran tajweed/All lectures.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -255,6 +255,7 @@
   },
   "active": "2294336603b04cab",
   "lastOpenFiles": [
+    "Quran tajweed/All lectures.md",
     "C learning/Beginner.md",
     "Quran tajweed/Class 2.md",
     "C learning",
@@ -269,7 +270,6 @@
     "Untitled.md",
     "Untitled",
     "Untitled.canvas",
-    "Quran tajweed/All lectures.md",
     "Quran tajweed",
     "README.md"
   ]
