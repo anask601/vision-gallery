@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c59a91cb3e42fe20",
+        "id": "055a793d2746d314",
         "type": "tabs",
         "children": [
           {
-            "id": "cf8f4b4be0d7f0bb",
+            "id": "9dba2fa2a112c528",
             "type": "leaf",
             "state": {
               "type": "terminal:documentation",
@@ -82,12 +82,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quran tajweed/All lectures.md",
+                "file": "Quran tajweed/Class 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All lectures"
+              "title": "Class 1"
             }
           }
         ]
@@ -232,8 +232,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       }
     ],
@@ -241,7 +241,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -253,24 +252,26 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "97f5ac1815406c3e",
+  "active": "9dba2fa2a112c528",
   "lastOpenFiles": [
     "Islamic/Quranic tajweed lectures.md",
+    "Islamic",
     "C learning/Beginner.md",
     "Quran tajweed/Class 2.md",
     "C learning",
     "Welcome.md",
+    "README.md",
+    "AI Agents/Resources.md",
     "webmd/Astrix BA steps to run.md",
     "webmd",
-    "system design/Resource.md",
     "system design",
-    "AI Agents/Resources.md",
     "AI Agents",
     "Quran tajweed/Class 3.md",
     "Untitled.md",
     "Untitled",
     "Untitled.canvas",
-    "Islamic",
+    "Quran tajweed/Class 1.md",
+    "Quran tajweed",
     "README.md"
   ]
 }
