@@ -1,3 +1,3 @@
 Quran tafseer : Ya Seen
 
-Quran : -Quran : - 553
+Quran : -Quran : - 553Quran : - 553
