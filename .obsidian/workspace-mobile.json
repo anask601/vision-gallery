@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Islamic/Quran track.md",
+                "file": "C learning/Beginner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quran track"
+              "title": "Beginner"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Islamic/Quran track.md",
+            "file": "C learning/Beginner.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
