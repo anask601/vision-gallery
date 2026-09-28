@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C learning/Beginner.md",
+                "file": "Islamic/Quran track.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beginner"
+              "title": "Quran track"
             }
           }
         ]
@@ -186,10 +186,10 @@
   },
   "active": "2294336603b04cab",
   "lastOpenFiles": [
+    "C learning/Beginner.md",
     "Islamic/Quran track.md",
     "Islamic/Quranic tajweed lectures.md",
     "Islamic",
-    "C learning/Beginner.md",
     "Quran tajweed/Class 2.md",
     "C learning",
     "Welcome.md",
