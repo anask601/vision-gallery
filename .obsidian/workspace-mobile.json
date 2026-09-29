@@ -11,14 +11,13 @@
             "id": "513aada9ecb15b33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Islamic/Quran track.md",
-                "mode": "source",
-                "source": false
+                "file": "system design/Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Quran track"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -184,10 +183,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "97f5ac1815406c3e",
+  "active": "513aada9ecb15b33",
   "lastOpenFiles": [
-    "Islamic/Quran track.md",
     "Untitled.base",
+    "system design/Untitled.base",
+    "Islamic/Quran track.md",
     "2026-09-29.md",
     "Untitled.md",
     "Islamic/Quranic tajweed lectures.md",
