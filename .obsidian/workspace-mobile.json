@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "024189c3aac03b92",
+        "id": "491f607746414f14",
         "type": "tabs",
         "children": [
           {
-            "id": "513aada9ecb15b33",
+            "id": "039fc61c04c7d31e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -180,8 +180,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "513aada9ecb15b33",
+  "active": "039fc61c04c7d31e",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "system design/Untitled.base",
     "Untitled.base",
     "Islamic/Quran track.md",
@@ -201,7 +202,6 @@
     "AI Agents",
     "Quran tajweed/Class 3.md",
     "Untitled",
-    "Untitled.canvas",
     "Quran tajweed/Class 1.md",
     "Quran tajweed",
     "README.md"
