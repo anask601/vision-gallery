@@ -11,13 +11,10 @@
             "id": "513aada9ecb15b33",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "system design/Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -185,8 +182,8 @@
   },
   "active": "513aada9ecb15b33",
   "lastOpenFiles": [
-    "Untitled.base",
     "system design/Untitled.base",
+    "Untitled.base",
     "Islamic/Quran track.md",
     "2026-09-29.md",
     "Untitled.md",
