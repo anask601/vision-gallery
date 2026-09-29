@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "055a793d2746d314",
+        "id": "491f607746414f14",
         "type": "tabs",
         "children": [
           {
-            "id": "2294336603b04cab",
+            "id": "039fc61c04c7d31e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pass.md",
+            "file": "Islamic/Quran track.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -205,6 +205,7 @@
     "Islamic/Quran track.md",
     "C learning/Beginner.md",
     "Islamic/Quranic tajweed lectures.md",
+    "C learning/Beginner.md",
     "Islamic",
     "Quran tajweed/Class 2.md",
     "C learning",
@@ -217,7 +218,6 @@
     "AI Agents",
     "Quran tajweed/Class 3.md",
     "Untitled",
-    "Untitled.canvas",
     "Quran tajweed/Class 1.md",
     "Quran tajweed",
     "README.md"
