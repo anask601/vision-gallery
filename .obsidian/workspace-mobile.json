@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Islamic/Quran track.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Quran track"
             }
           }
         ],
@@ -201,6 +201,7 @@
   },
   "active": "957aac32be979d2c",
   "lastOpenFiles": [
+    "Welcome.md",
     "Pass.md",
     "Islamic/Quran track.md",
     "C learning/Beginner.md",
@@ -209,7 +210,6 @@
     "Islamic",
     "Quran tajweed/Class 2.md",
     "C learning",
-    "Welcome.md",
     "README.md",
     "AI Agents/Resources.md",
     "webmd/Astrix BA steps to run.md",
