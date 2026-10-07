@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Islamic/Quran track.md",
+                "file": "Islamic/Quranic tajweed lectures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quran track"
+              "title": "Quranic tajweed lectures"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Islamic/Bayans.md",
+            "file": "Islamic/Quran track.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,12 +186,15 @@
   },
   "active": "039fc61c04c7d31e",
   "lastOpenFiles": [
-    "Islamic/Bayans.md",
     "Islamic/Quran track.md",
     "Islamic/Quranic tajweed lectures.md",
     "Pass.md",
-    "Welcome.md",
-    "C learning/Beginner.md",
+    "Islamic/Bayans.md",
+    "Untitled.canvas",
+    "system design/Untitled.base",
+    "Untitled.base",
+    "2026-09-29.md",
+    "Untitled.md",
     "C learning/Beginner.md",
     "Islamic",
     "Quran tajweed/Class 2.md",
