@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Islamic/Quranic tajweed lectures.md",
+                "file": "Islamic/Quran track.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quranic tajweed lectures"
+              "title": "Quran track"
             }
           }
         ]
@@ -186,7 +186,10 @@
   },
   "active": "039fc61c04c7d31e",
   "lastOpenFiles": [
+    "system design/Resource.md",
     "Islamic/Quran track.md",
+    "Work.md",
+    "Jamat",
     "Islamic/Quranic tajweed lectures.md",
     "Pass.md",
     "Islamic/Bayans.md",
@@ -194,7 +197,6 @@
     "system design/Untitled.base",
     "Untitled.base",
     "2026-09-29.md",
-    "Untitled.md",
     "C learning/Beginner.md",
     "Islamic",
     "Quran tajweed/Class 2.md",
@@ -207,7 +209,6 @@
     "system design",
     "AI Agents",
     "Quran tajweed/Class 3.md",
-    "Untitled",
     "Quran tajweed/Class 1.md",
     "Quran tajweed",
     "README.md"
