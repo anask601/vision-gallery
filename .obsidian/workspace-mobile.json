@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Islamic/Quran track.md",
+                "file": "Islamic/Bayans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quran track"
+              "title": "Bayans"
             }
           }
         ]
@@ -186,10 +186,10 @@
   },
   "active": "039fc61c04c7d31e",
   "lastOpenFiles": [
-    "Islamic/Quranic tajweed lectures.md",
     "Islamic/Quran track.md",
-    "Pass.md",
     "Islamic/Bayans.md",
+    "Islamic/Quranic tajweed lectures.md",
+    "Pass.md",
     "Untitled.canvas",
     "system design/Untitled.base",
     "Untitled.base",
